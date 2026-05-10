@@ -1,1 +1,2 @@
 Hello, Git!
+Git 版本管理真好用！
