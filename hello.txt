@@ -1,3 +1,3 @@
 Hello, Git!
 Git 版本管理真好用！
-这是master添加的内容
+这是master和分支A合并后的内容
